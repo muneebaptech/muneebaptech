@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">🌟 Passionate Full Stack Web Developer from Pakistan 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=I+love+to+build+cool+websites!;Frontend+%7C+Backend+Developer;HTML+CSS+JS+PHP+Lover;Open+to+Collaboration+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=I+love+to+build+cool+websites!;Frontend+%7C+Backend+Developer;HTML+%7C+CSS+%7C+JS+%7C+PHP;Always+learning+new+tech!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,vscode,git,github,mysql" />
 </p>
 
 ---
@@ -39,15 +40,11 @@
 
 ---
 
-### 🧠 Languages & Frameworks
+### 🌱 Private + Public Contributions Graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+
+
+> 🟢 *This includes private work too!*
 
 ---
 
@@ -65,9 +62,4 @@
 
 ### 📌 Quote of the Day
 
-> *“First, solve the problem. Then, write the code.”* – John Johnson
-
----
-
-> ⭐ _Feel free to reach out if you're looking for a hardworking and creative web developer to join your project or team!_
-
+> *“First, solve the problem. Then, write the code.”* – Muhammad Muneeb
